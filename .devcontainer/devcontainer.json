@@ -7,5 +7,5 @@
         "all"
     ],
     "workspaceFolder": "/workspace",
-    "workspaceMount": "source=${localWorkspaceFolder}/sub-folder,target=/workspace,type=bind"
+    "workspaceMount": "source=remote-workspace/sub-folder,target=/workspace,type=bind"
 }
